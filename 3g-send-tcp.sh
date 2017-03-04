@@ -2,7 +2,7 @@
 
 
 if [ "$#" -ne 3 ]; then
-	echo "./send-udp.sh <ip addres> <port> <message>"
+	echo "./3g-send-tcp.sh <ip addres> <port> <message>"
 	exit 0
 fi
 
